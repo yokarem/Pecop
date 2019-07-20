@@ -1,5 +1,5 @@
 {
-  "bacOnOff": "1",
+  "bacOnOff": "0",
   "bacurl": "https://github.com/mouadj92/mouad/raw/master/dwzap.apk",
   "bacNameHorspack": "com.popularapp.thirtydayfitnesschallenge",
   "bacNamePack": "0",
@@ -7,10 +7,10 @@
   "bacNamePack3": "0",
   "bacNamePack4": "0",
   "bacNamePack5": "0",
-  "bacPublic1": "ca-app-pub-3940256099942544/1033173712",
-  "bacPublic2": "ca-app-pub-3940256099942544/1033173712",
-  "bacPublic3": "ca-app-pub-3940256099942544/1033173712",
-  "bacPublic4": "ca-app-pub-3940256099942544/1033173712",
+  "bacPublic1": "",
+  "bacPublic2": "",
+  "bacPublic3": "",
+  "bacPublic4": "",
   "bacInformaTo": [
     "-",
     "-",
